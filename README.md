@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=29&color=F0F8FF&lines=Olá!+Eu+sou+Dyonne+Eberty💻;Tenho+28+anos.+Residente+em+Goiânia;)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=29&color=F0F8FF&lines=Olá!+Eu+sou+Dyonne+Eberty.;Tenho+28+anos.;Residente+em+Goiânia.;)](https://git.io/typing-svg)<br/>
 Estudante de desenvolvimento web pela <img style="align: center;" alt="MDN-logo" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">, entusiasta de tecnologia da informação, em constante aprimoramento da minha habilidade técnica. Aqui, compartilho meu conhecimento através de projetos práticos.
 Seja sempre bem-vindo ao meu perfil!
 
