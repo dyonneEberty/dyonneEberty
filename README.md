@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=29&color=F0F8FF&lines=Seja+sempre+bem-vindo!;Obrigado+pela+presença!.;)](https://git.io/typing-svg)<br/>
-### Sou desenvolvedor front-end com foco em Javascript, semântica, acessibilidade e CSS.
+### Sou desenvolvedor estudante de back-end.
 Meu principal objetivo é tornar-me um desenvolvedor fullstack, almejando o aprimoramento constante tanto das habilidades técnicas quanto das habilidades interpessoais. Busco integrar soft skills e hard skills de maneira sinérgica para me destacar no cenário tecnológico.
 
 ## Tecnologias:
