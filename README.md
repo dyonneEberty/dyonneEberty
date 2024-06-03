@@ -1,10 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=29&color=F0F8FF&lines=Seja+sempre+bem-vindo!;Obrigado+pela+presença!.;)](https://git.io/typing-svg)<br/>
-### Sou desenvolvedor estudante de back-end.
-Meu principal objetivo é tornar-me um desenvolvedor fullstack, almejando o aprimoramento constante tanto das habilidades técnicas quanto das habilidades interpessoais. Busco integrar soft skills e hard skills de maneira sinérgica para me destacar no cenário tecnológico.
+# Desenvolvedor back-end aspirante.
+Meu principal objetivo é me tornar um desenvolvedor fullstack. Quero aprimorar continuamente minhas habilidades técnicas e interpessoais, para me destacar no mercado de tecnologia.
 
-## Tecnologias:
+### Tecnologias:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <br>
 
