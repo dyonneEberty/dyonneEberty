@@ -1,5 +1,5 @@
 # Desenvolvedor back-end aspirante.
-Meu principal objetivo é me tornar um desenvolvedor fullstack. Quero aprimorar continuamente minhas habilidades técnicas e interpessoais, para me destacar no mercado de tecnologia.
+Meu principal objetivo é me tornar um desenvolvedor especialista em backend Java. Quero aprimorar continuamente minhas habilidades técnicas e interpessoais, para me destacar no mercado de tecnologia.
 
 ### Tecnologias:
 
